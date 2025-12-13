@@ -95,4 +95,4 @@ This repository is designed to:
 
 ## Contact Me
 
-If you have any questions or inquires about the work showcased, feel free to contact [Joshua Pasaye](https://github.com/jep9731/)
+If you have any questions or inquires about the work showcased, feel free to contact [Joshua Pasaye](https://github.com/jep9731/).
