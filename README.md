@@ -70,8 +70,8 @@ MSDS453-Final-Project/
 │   ├── clinical_note_clustering.ipynb       # Main analysis script
 │   └── rag_analysis_module.py               # RAG design framework
 │
-├── reports/
-│   ├── Interim_Report_A1_FINAL_CLEAN.docx   # Final report (CMOS format)
+├── report/
+│   └── Interim_Report_A1_FINAL_CLEAN.docx   # Final report (CMOS format)
 │
 ├── visualizations/
 │   ├── cluster_comparison.png               # TF-IDF vs Doc2Vec PCA plots
