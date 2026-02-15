@@ -66,7 +66,7 @@ Identified critical preprocessing challenges where medical synonyms fragment (MI
 ```
 MSDS453-Final-Project/
 │
-├── code/
+├── scripts/
 │   ├── clinical_note_clustering.ipynb       # Main analysis script
 │   └── rag_analysis_module.py               # RAG design framework
 │
