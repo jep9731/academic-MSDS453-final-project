@@ -14,7 +14,7 @@ I'm analyzing 10,000 cardiovascular discharge summaries from the MIMIC-III clini
 - Root cause: Discharge summaries are inherently multi-topic (35% primary diagnosis + 25% comorbidities + 20% procedures + 20% other)
 
 **LDA Topic Modeling Proves More Appropriate:**
-- Coherence score of 0.46 at 15 topics—substantially better than hard clustering
+- Coherence score of 0.46 at 15 topics = substantially better than hard clustering
 - Discovered clinically meaningful themes: acute MI, heart failure, arrhythmias, procedures, diabetes management
 - Allows documents to be mixtures of topics, matching clinical reality
 
