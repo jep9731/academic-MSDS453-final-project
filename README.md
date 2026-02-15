@@ -50,7 +50,7 @@ Through the projects in this repository, I demonstrate proficiency in:
 MSDS453/
 │
 ├── projects/           # End-to-end NLP and AI projects
-├── notebooks/         # Jupyter notebooks with experiments and results
+├── notebooks/          # Jupyter notebooks with experiments and results
 ├── data/               # Public, open-source, or simulated text datasets
 ├── models/             # Saved models and embeddings (when applicable)
 ├── scripts/            # Reusable NLP and modeling utilities
