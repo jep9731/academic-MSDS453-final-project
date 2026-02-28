@@ -67,11 +67,10 @@ Identified critical preprocessing challenges where medical synonyms fragment (MI
 MSDS453-Final-Project/
 │
 ├── scripts/
-│   ├── clinical_note_clustering.ipynb       # Main analysis script
-│   └── rag_analysis_module.py               # RAG design framework
+│   └── clinical_note_clustering.ipynb       # Main analysis script
 │
 ├── report/
-│   └── Interim_Report_A1_FINAL_CLEAN.docx   # Final report (CMOS format)
+│   └── Pasaye_A2_Final_Report.docx          # Final report (CMOS format)
 │
 ├── visualizations/
 │   ├── cluster_comparison.png               # TF-IDF vs Doc2Vec PCA plots
@@ -107,11 +106,6 @@ Generic documentation phrases ("patient presented with", "hospital course") domi
 Numeric values stripped during preprocessing, losing ejection fraction distinctions between HFrEF and HFpEF. Solution: Preserve quantitative clinical markers in future iterations.
 
 ## 📈 Future Work
-
-**Short-term:**
-- Implement comprehensive medical term normalization (200+ mappings)
-- Aggressive clinical boilerplate filtering
-- Medical-aware stemming
 
 **Medium-term:**
 - UMLS concept-based vectors for automatic synonym resolution
