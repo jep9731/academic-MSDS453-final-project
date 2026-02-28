@@ -67,7 +67,10 @@ Identified critical preprocessing challenges where medical synonyms fragment (MI
 MSDS453-Final-Project/
 │
 ├── scripts/
-│   └── clinical_note_clustering.ipynb       # Main analysis script
+|   └── clinical_note_clustering.ipynb       # Main analysis script
+│
+├── data/
+|   └── NOTEEVENTS.csv                       # Dataset for analysis
 │
 ├── report/
 │   └── Pasaye_A2_Final_Report.docx          # Final report (CMOS format)
