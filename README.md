@@ -16,7 +16,7 @@ I'm analyzing 10,000 cardiovascular discharge summaries from the MIMIC-III clini
 
 **LDA Topic Modeling Proves More Appropriate:**
 
-- Coherence score of 0.6251 at 25 topics — the optimal configuration, with coherence increasing monotonically from 0.4037 at 5 topics
+- Coherence score of 0.6251 at 25 topics: the optimal configuration, with coherence increasing monotonically from 0.4037 at 5 topics
 - Discovered clinically meaningful themes: acute MI (coronary, catheterization, stent, LAD, RCA), valvular heart disease (mitral, regurgitation, echocardiogram), arrhythmia/device management (pacemaker, defibrillator, tachycardia), CABG (graft, bypass, saphenous), and anticoagulation therapy (warfarin, amiodarone, heparin)
 - Allows documents to be mixtures of topics, matching clinical reality
 
