@@ -76,6 +76,9 @@ MSDS453-Final-Project/
 ├── scripts/
 │   └── clinical_note_clustering.ipynb       # Main analysis notebook
 │
+├── data/
+  │   └── NOTEEVENTS.csv                     # Text dataset
+|
 ├── report/
 │   └── Pasaye_Project-Report-Final.docx     # Final report (CMOS format)
 │
@@ -84,6 +87,8 @@ MSDS453-Final-Project/
 │   ├── lda_topics.png                       # LDA topic distribution (Figure 2)
 │   └── rag_design_analysis.png              # RAG quality metrics (Figure 3)
 │
+├── .gitignore
+|
 └── README.md
 ```
 
